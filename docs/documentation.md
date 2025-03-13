@@ -53,6 +53,13 @@ Este proyecto permite la automatización del cambio de **IP pública** en un sis
 - 📌 **Facilidad de integración con redes empresariales y de seguridad.**
 - 📌 **Ejecución de eventos programados sin necesidad de supervisión.**
 
+## 🧪 Pruebas
+El proyecto incluye pruebas unitarias para validar el correcto funcionamiento del cambio de IP.
+1. **Ejecución de pruebas:**
+   ```sh
+   python -m unittest discover tests/
+   ```
+
 ## 📬 Contacto
-Para consultas o sugerencias, contáctame en [emmanuel.cmora20@gmail.com](mailto:emmanuel.cmora20@gmail.com).
+Para consultas o sugerencias, contáctame en [emmanuel.cmora20@gmail.com].
 """
